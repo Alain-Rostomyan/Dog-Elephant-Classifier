@@ -1,0 +1,5 @@
+Elephant dataset:
+https://www.kaggle.com/datasets/vivmankar/asian-vs-african-elephant-image-classification/data
+
+Dog dataset:
+https://www.kaggle.com/datasets/yapwh1208/dogs-breed-dataset
